@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278404131748",
+    "project_id": "quirky-b7516",
+    "storage_bucket": "quirky-b7516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278404131748:android:796869c81ef2bbaa232f31",
+        "android_client_info": {
+          "package_name": "com.example.getquirky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278404131748-dolb9le8la0qd9ao3o13u2osvvf3a90i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getquirky",
+            "certificate_hash": "5dcafbb56291bbbbf3b1a84a954972a11de17a44"
+          }
+        },
+        {
+          "client_id": "278404131748-7a4aiponujvbtuikd7tgd8muuvp2v9b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk7UL-ajAiz_w43TgnhNLvmvGqBgxxHW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278404131748-7a4aiponujvbtuikd7tgd8muuvp2v9b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
